@@ -5,5 +5,5 @@ jobs:
   hello-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Eco Text
+      - name: Echo Text
         run: echo "Hello World!"
